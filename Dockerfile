@@ -1,3 +1,4 @@
+# It's being used in InaSAFE Project.
 FROM python:2.7.9
 MAINTAINER Ismail Sunni <imajimatika@gmail.com>
 
