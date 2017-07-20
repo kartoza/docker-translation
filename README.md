@@ -9,7 +9,7 @@ and compile translation string from Qt project.
 We can use docker hub registry to pull a prebuilt containers:
 
 ```
-docker pull kartoza/docker-qt-translation
+docker pull kartoza/qt-translation
 ```
 
 To build the image directly, use existing make commands provided here:
